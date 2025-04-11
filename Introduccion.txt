@@ -1,0 +1,13 @@
+El modelo de Swensen es un modelo de inversión pasiva de largo plazo que se basa en la distribución de la economía global. Este modelo ha tenido un desempeño excelente y los fundamentos que lo definen siguen vigentes, sin embargo el contexto económico global ha cambiado mucho desde su implementación en la década de los 80’s.
+
+La economía global a sufrido importantes transformaciones, pasando del dominio del mercado americano al dominio Chino, también la introducción de los cripto-activos al mercado global, la tendencia hacia la desdolarización por parte de ciertos países  y el regreso al patrón Oro y la reciente desindustrialización del continente europeo.
+
+En este estudio nos proponemos actualizar el modelo de Swensen, más específicamente la parte del portafolio correspondiente a acciones, dejando, de momento, los porcentajes equivalentes a Bonos y Bienes Raíces como en el modelo original.
+
+Para hacer un análisis más simplificado utilizaremos ETFs que consideramos son bastante representativos de los distintos mercados: Americano (VOO), Países “desarrollados” (VEA) y países “en vias de desarrollo” (VWO).
+
+Primero se realizará un análisis para verificar la relación del valor de Bitcoin y el S&P500
+Posteriormente se realizarán análisis de portafolios integrando los ETFs ya mencionados, agregando Bitcoin y Oro para buscar un portafolio óptimo.
+Finalmente se agregará un ETF de empresas chinas para realizar el mismo análisis de portafolio y se determinaran las mejores opciones
+
+
